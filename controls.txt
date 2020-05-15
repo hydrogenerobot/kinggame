@@ -1,1 +1,4 @@
+our controls were xbox, ps4, android and pc
+so do to was create a file
 
+like xbox.bat or everything
